@@ -2,3 +2,4 @@
 apic:
   tenants:
     - name: Tenant
+    - name: test
