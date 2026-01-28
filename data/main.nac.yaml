@@ -3,3 +3,4 @@ apic:
   tenants:
     - name: blabla
     - name: testing123
+      description: this is a description test
